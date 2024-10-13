@@ -1,0 +1,8 @@
+.container
+{
+    background-color: orange;
+    font-size: 30px;
+}
+.setion-1 .container .row div{
+   font-size: 30px;
+}
